@@ -1,0 +1,28 @@
+body {
+    max-width: 1000px;
+    min-width: 400px;
+    background-color: #6a5e61;
+    color: white;
+    margin: auto;
+    font-size: 20px;
+  }
+  
+  #main {
+    padding: 0 50px;
+    font-size: 1.5rem;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    justify-content: center;
+  }
+  
+  a {
+    color: white;
+  }
